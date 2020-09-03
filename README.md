@@ -1,2 +1,2 @@
 # Galssdoor-Webscrapper
-Selenium script for scrapping job information from Glassdoor.com (Specifically for Mozilla Firefox).
+Selenium script, using Python, for scrapping job-related information from Glassdoor.com (For Mozilla Firefox Browser).
