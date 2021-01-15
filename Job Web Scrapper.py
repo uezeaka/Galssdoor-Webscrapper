@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import ElementClickInterceptedException, StaleElementReferenceException, NoSuchElementException
-# NOTE: Install "xlrd" and "XlsxWriter" Libraries if you intend to save DatFrame as excel
+# NOTE: Install "xlrd" and "XlsxWriter" Libraries if you intend to save DataFrame as an Excel Document
 
 # DataFrame display settings
 pd.set_option('display.width', 400)
